@@ -43,9 +43,7 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine("Grade F");
-                }
-
+                    Console.WriteLine("Grade F")
             }
         }
 
